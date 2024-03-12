@@ -8,3 +8,6 @@ Friends can react the post
 We can chat with friends as private
 Again we can send a picture,vedio to your friends in private chat
 We can react for the files friend sent
+# social page
+we can put post and meme share in that page 
+there is friends only followers for the page
