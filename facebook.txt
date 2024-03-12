@@ -1,3 +1,6 @@
+#facebook
 create a facebook software
 We can give the friend request to everyone in the world
+#post
 We can post the pictures, vedios, photos, and news 
+Friends can react the post 
