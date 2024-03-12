@@ -7,3 +7,4 @@ Friends can react the post
 #Private chat
 We can chat with friends as private
 Again we can send a picture,vedio to your friends in private chat
+We can react for the files friend sent
