@@ -11,3 +11,6 @@ We can react for the files friend sent
 #Personal detail
 We can add the personal detail in the account detail
 We can put a presonal detail in private or public
+# social page
+we can put post and meme share in that page 
+there is friends only followers for the page
